@@ -1,0 +1,11 @@
+C:\Projetos\TasksSemaphore\TasksSemaphore\bin\Debug\netcoreapp2.0\TasksSemaphore.deps.json
+C:\Projetos\TasksSemaphore\TasksSemaphore\bin\Debug\netcoreapp2.0\TasksSemaphore.runtimeconfig.json
+C:\Projetos\TasksSemaphore\TasksSemaphore\bin\Debug\netcoreapp2.0\TasksSemaphore.runtimeconfig.dev.json
+C:\Projetos\TasksSemaphore\TasksSemaphore\bin\Debug\netcoreapp2.0\TasksSemaphore.dll
+C:\Projetos\TasksSemaphore\TasksSemaphore\bin\Debug\netcoreapp2.0\TasksSemaphore.pdb
+C:\Projetos\TasksSemaphore\TasksSemaphore\obj\Debug\netcoreapp2.0\TasksSemaphore.csproj.CoreCompileInputs.cache
+C:\Projetos\TasksSemaphore\TasksSemaphore\obj\Debug\netcoreapp2.0\TasksSemaphore.AssemblyInfoInputs.cache
+C:\Projetos\TasksSemaphore\TasksSemaphore\obj\Debug\netcoreapp2.0\TasksSemaphore.AssemblyInfo.cs
+C:\Projetos\TasksSemaphore\TasksSemaphore\obj\Debug\netcoreapp2.0\TasksSemaphore.dll
+C:\Projetos\TasksSemaphore\TasksSemaphore\obj\Debug\netcoreapp2.0\TasksSemaphore.pdb
+C:\Projetos\TasksSemaphore\TasksSemaphore\obj\Debug\netcoreapp2.0\TasksSemaphore.csprojAssemblyReference.cache
